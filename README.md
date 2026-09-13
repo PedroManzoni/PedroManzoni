@@ -1,7 +1,6 @@
 ## Eai, sou o Pedro Henrique 👋
 ### um pouco sobre mim:
 
-- 🎒 Atualmente pós graduando na FIAP
 - 👨🏻‍🎓 Formado em engenharia mecânica.
 - 📚 Backend .NET | C# | EF Core | SQL Server | MongoDB | Docker
 
